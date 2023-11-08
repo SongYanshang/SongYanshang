@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 如果我做的东西对你有帮助或有用，你可以请我喝杯咖啡以示支持 ☕️ 
 
 <a href="https://www.buymeacoffee.com/songyanshang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 150px !important;" ></a>
-
-你还可以在 <a rel="me" href="https://shong.cc">宋言商的工作室</a> 找到我。
