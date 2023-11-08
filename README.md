@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey，我是宋言商 👋
 
 <!--
 **SongYanshang/SongYanshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hey，我是宋言商 👋
 
 我来自中国，现居住在成都，是一名自由职业者。
 
